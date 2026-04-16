@@ -69,6 +69,11 @@ Stack:     Gradio, Model APIs, Data Pipelines
 
 ---
 
-## 🜏 Note
-
-This profile is a collection of experiments, not finished products.
+## 🜏 Support
+If you like my work, feel free to send me a tip:
+🪙 BTC (BSC network)
+0x4b038d095ccb5bd088b8cdc33d4a202372647f2c
+💎 ETH (ETH network)
+0x4b038d095ccb5bd088b8cdc33d4a202372647f2c
+🚧 BNB (BSC network)
+0x4b038d095ccb5bd088b8cdc33d4a202372647f2c
