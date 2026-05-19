@@ -21,10 +21,6 @@
 > Auto-updating signals from ongoing work
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yog-Sotho&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Yog-Sotho&theme=radical" />
 </p>
 
