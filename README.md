@@ -36,10 +36,11 @@ I live where **AI** meets **security**, which is a fun neighbourhood. Everything
 
 | | Project | What it does |
 |---|---|---|
-| 🍺 | [**Brainbrew**](https://github.com/Yog-Sotho/Brainbrew) | Mad scientist + coffee machine for data. Dump in your boring PDFs, press one button, get god-tier synthetic training data. Free to run, tested nightly. |
-| 🧠 | [**LLM-fine-tuner**](https://github.com/Yog-Sotho/LLM-fine-tuner) | Your own custom AI with no coding, no PhD and no drama. Upload data, click Train, done. |
-| 🧼 | [**LLM-Sanitizer-Pro**](https://github.com/Yog-Sotho/LLM-Sanitizer-Pro) | Scrubs what goes into and comes out of language models, so they behave. |
-| 🔎 | [**Ollama-Security-Auditor**](https://github.com/Yog-Sotho/Ollama-Security-Auditor) | Checks whether your Ollama setup is locked down or wide open. |
+| 🍺 | [**Brainbrew**](https://github.com/Yog-Sotho/Brainbrew) | Mad scientist + coffee machine for data. Dump in your boring PDFs, press one button, get god-tier synthetic training data — grounded, judged, deduped. No code. Free to run, tested nightly. |
+| 🧠 | [**LLM-fine-tuner**](https://github.com/Yog-Sotho/LLM-fine-tuner) | Your own custom AI with no coding, no PhD and no drama. Upload data, click Train, get a model you can run in Ollama or ship to the Hub. |
+| 🛡️ | [**LiSa-LLM**](https://github.com/Yog-Sotho/LiSa-LLM) | Because your cat-sized model deserves a lion-sized sandbox. Drop in a GGUF, get an OpenAI-compatible API, and the model runs in a padded cell. Signed releases, sandbox on by default. |
+| 🧼 | [**LLM-Sanitizer-Pro**](https://github.com/Yog-Sotho/LLM-Sanitizer-Pro) | Scrubs the junk and PII out of training data before it ever reaches a model. Streaming, multi-format, redaction that actually checks the Luhn digit. |
+| 🔎 | [**Ollama-Security-Auditor**](https://github.com/Yog-Sotho/Ollama-Security-Auditor) | Checks whether your Ollama setup is locked down or wide open to the whole internet. |
 | 🔐 | [**Homomorphic-Encryption-Service**](https://github.com/Yog-Sotho/Homomorphic-Encryption-Service) | Computing on data it can't even read. Yes, that is a real thing. |
 | 🌑 | [**Nocturna-Trading-System**](https://github.com/Yog-Sotho/Nocturna-Trading-System) | Experimental ML crypto trading, built to dodge race conditions, blocking I/O and losing its mind in a crash. |
 | 🕵️ | [**Wash-Trade-Scanner**](https://github.com/Yog-Sotho/Wash-Trade-Scanner) | Sniffs out wash-trading patterns in market data. |
